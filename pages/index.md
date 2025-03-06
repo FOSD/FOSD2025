@@ -1,3 +1,28 @@
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 40px; /* Adds space between tables */
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  th {
+    background-color: #f4f4f4;
+    font-size: 1.2em;
+  }
+  td {
+    font-size: 1em;
+  }
+  table colgroup col:first-child {
+    width: 20% !important;
+  }
+  table colgroup col:last-child {
+    width: 80% !important;
+  }
+</style>
 
 # About
 The Meeting on Feature-Oriented Software Development (FOSD Meeting) is a yearly informal meeting to bring together the community of researchers working on feature-oriented software development, including, but not limited to:
@@ -25,7 +50,7 @@ The format of an FOSD meeting consists of short presentations from each particip
   </tr>
   <tr>
     <td>Registration Deadline</td>
-    <td>TBD (estimated: February 2025) </td>
+    <td>March 5, 2025</td>
   </tr>
   <tr>
     <td>FOSD Meeting 2025</td>
@@ -51,11 +76,171 @@ The format of an FOSD meeting consists of short presentations from each particip
 </table>
 
 # Schedule
-TBD
+The list of speakers for each session will be announced on the preceding day. For the first day (Tuesday, March 25th) we plan to announce the concrete talks approximately one week before.
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Tuesday (25th March)</th>
+  </tr>
+  <tr>
+    <td>08:30</td>
+    <td>Morning Coffee</td>
+  </tr>
+  <tr>
+    <td>09:00</td>
+    <td>Opening</td>
+  </tr>
+  <tr>
+    <td>09:15</td>
+    <td><b>Keynote:</b> Norbert Siegmund (Univ. Leipzig)</td>
+  </tr>
+  <tr>
+    <td>10:15</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>10:45</td>
+    <td>Session 1</td>
+  </tr>
+  <tr>
+    <td>12:00</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>13:30</td>
+    <td>Session 2</td>
+  </tr>
+  <tr>
+    <td>14:45</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>15:15</td>
+    <td>Session 3</td>
+  </tr>
+  <tr>
+    <td>16:30</td>
+    <td>Reception at Hochschule Anhalt</td>
+  </tr>
+  <tr>
+    <td style="border-left: none; border-right: none;"></td>
+    <td style="border-left: none; border-right: none;"></td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>Wednesday (26th March)</th>
+  </tr>
+  <tr>
+    <td>08:30</td>
+    <td>Morning Coffee</td>
+  </tr>
+  <tr>
+    <td>09:00</td>
+    <td><b>Keynote:</b> Danilo Beuche (pure/PTC)</td>
+  </tr>
+  <tr>
+    <td>10:00</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>10:30</td>
+    <td>Session 4</td>
+  </tr>
+  <tr>
+    <td>12:00</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>13:30</td>
+    <td>Session 5</td>
+  </tr>
+  <tr>
+    <td>14:45</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>15:15</td>
+    <td>Session 6</td>
+  </tr>
+  <tr>
+    <td>19:00</td>
+    <td>Dinner at Brauhaus Köthen</td>
+  </tr>
+  <tr>
+    <td style="border-left: none; border-right: none;"></td>
+    <td style="border-left: none; border-right: none;"></td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>Thursday (27th March)</th>
+  </tr>
+  <tr>
+    <td>08:30</td>
+    <td>Morning Coffee</td>
+  </tr>
+  <tr>
+    <td>09:00</td>
+    <td>Session 7</td>
+  </tr>
+  <tr>
+    <td>10:15</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>10:45</td>
+    <td>Session 8</td>
+  </tr>
+  <tr>
+    <td>12:00</td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td>13:30</td>
+    <td>Informal Get-Together (Breakout Session)</td>
+  </tr>
+  <tr>
+    <td>14:30</td>
+    <td><b>Social Event:</b> Bauhaus Museum Dessau</td>
+  </tr>
+  <tr>
+    <td>18:30</td>
+    <td>Dinner at Creperie Lorette</td>
+  </tr>
+  <tr>
+    <td style="border-left: none; border-right: none;"></td>
+    <td style="border-left: none; border-right: none;"></td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <th>Friday (28th March)</th>
+  </tr>
+  <tr>
+    <td>08:30</td>
+    <td>Morning Coffee</td>
+  </tr>
+  <tr>
+    <td>09:30</td>
+    <td>Session 9</td>
+  </tr>
+  <tr>
+    <td>10:15</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>10:45</td>
+    <td>Session 10</td>
+  </tr>
+  <tr>
+    <td>12:00</td>
+    <td>Lunch</td>
+  </tr>
+</table>
+
 
 {% for conf_day in site.data.schedule %}
 ### Schedule {{ conf_day.day | date: "%A, %b %e" }}
-Address: **{{conf_day.address}}**
+
 {% for session in conf_day.sessions %}
 Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair: {{ session.chair }} 
 {% for talk in session.talks %}
