@@ -26,10 +26,6 @@
   title: Consistency Preserving Product Line Engineering
   university: Karlsruhe Institute of Technology (KIT)
 
-- name: Malte Lochau
-  title: Sample-based Optimization of Overlapping Quantum State Tomography
-  university: University of Siegen
-
 - name: Mathis Weiß
   title: Combining Reconstruction Techniques for Feature Models
   university: University of Siegen
@@ -46,10 +42,6 @@
   title: Coverage Metrics for T-Wise Feature Interactions
   university: University of Ulm
 
-- name: Rahel Sundermann
-  title: Sample-based Quality Assurance
-  university: University of Ulm
-
 - name: Tim Schmidt
   title: Error Masking in Software Product Lines
   university: University of Ulm
@@ -62,6 +54,9 @@
   title: On the Syntactic Expressiveness of Variability Languages
   university: University of Ulm
 
+- name: Timo Kehrer
+  title: TBD
+  university: University of Bern
 - name: Alexander Stummer
   title: A Flexible Approach for Variability Mining
   university: Johannes Kepler University Linz
@@ -109,3 +104,11 @@
 - name: Aaron Molt
   title: T-Wise Sampling Operations on Binary Decision Diagrams 
   university: University of Ulm
+
+- name: Sven Apel
+  title: Predicting Feature Changes
+  university: Saarland University
+
+- name: Stefan Sobernig
+  title: Developing a GLSP-based feature modeling tool: Lessons (to be) learned
+  university: WU Wien
