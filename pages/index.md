@@ -22,6 +22,9 @@
   table colgroup col:last-child {
     width: 80% !important;
   }
+  ul li {
+    margin-bottom: 15px;
+  }
 </style>
 
 # About
@@ -65,11 +68,11 @@ The format of an FOSD meeting consists of short presentations from each particip
     <th>Title</th>
     <th>University</th>
   </tr>
-  {% for item in site.data.participants | sort: "name" %}
+  {% for item in site.data.participants %}
     <tr>
       <td width="20%">{{ item.name }}</td>
-      <td width="60%">{{ item.title }} {% if item.link != null %}<a href="{{ item.link }}" target="_blank">[slides]</a>{% endif %}</td>
-      <td width="20%">{{ item.university }}</td>
+      <td width="55%">{{ item.title }} {% if item.link != null %}<a href="{{ item.link }}" target="_blank">[slides]</a>{% endif %}</td>
+      <td width="25%">{{ item.university }}</td>
     </tr>
   {% endfor %}
 
@@ -101,7 +104,14 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>10:45</td>
-    <td>Session 1</td>
+    <td>
+      <b>Session 1:</b>
+      <ul>
+        <li>Sebastian Böhm (Saarland University)<br><i>When Code Gets Spooky: Unveiling Hidden Errors Caused by Library Upgrades</i></li>
+        <li>Sabrina Böhm (University of Ulm)<br><i>Coverage Metrics for T-Wise Feature Interactions</i></li>
+        <li>Roman Boegli (University of Bern)<br><i>Community-Driven Variability</i></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>12:00</td>
@@ -109,7 +119,14 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>13:30</td>
-    <td>Session 2</td>
+    <td>
+      <b>Session 2:</b>
+      <ul>
+        <li>Tim Bächle (Karlsruhe Institute of Technology)<br><i>Investigating the Effects of T-Wise Interaction Sampling for Vulnerability Discovery in Highly-Configurable Software Systems</i></li>
+        <li>Jan Baudisch (University of Ulm)<br><i>Tailoring Hypergraph Partitioning for Efficient d-DNNF Compilation</i></li>
+        <li>Sude Ergün (Saarland University)<br><i>Time-Inhomogeneous Performance Modeling</i></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>14:45</td>
@@ -117,7 +134,14 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>15:15</td>
-    <td>Session 3</td>
+    <td>
+    <b>Session 3:</b>
+      <ul>
+        <li>Tim Schmidt (University of Ulm)<br><i>Error Masking in Software Product Lines</i></li>
+        <li>Stefan Jahns (University of Leipzig) <br> <i>Uncertainty Quantification with Conformal Prediction for the Prediction of Non-Functional Properties in Configurable Software Systems</i></li>
+        <li>Sven Apel (Saarland University) <br> <i>Predicting Feature Changes</i></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>16:30</td>
