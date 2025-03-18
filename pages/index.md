@@ -61,23 +61,6 @@ The format of an FOSD meeting consists of short presentations from each particip
   </tr>
 </table>
 
-# Participants
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Title</th>
-    <th>University</th>
-  </tr>
-  {% for item in site.data.participants %}
-    <tr>
-      <td width="20%">{{ item.name }}</td>
-      <td width="55%">{{ item.title }} {% if item.link != null %}<a href="{{ item.link }}" target="_blank">[slides]</a>{% endif %}</td>
-      <td width="25%">{{ item.university }}</td>
-    </tr>
-  {% endfor %}
-
-</table>
-
 # Schedule
 The list of speakers for each session will be announced on the preceding day. For the first day (Tuesday, March 25th) we plan to announce the concrete talks approximately one week before.
 
