@@ -79,7 +79,9 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>09:15</td>
-    <td><b>Keynote:</b> Norbert Siegmund (Univ. Leipzig)</td>
+    <td><b>Keynote:</b> Norbert Siegmund (Univ. Leipzig)<br>
+    AI for Optimizing Non-Functional Properties: The Past, The Present, and The Future 
+    </td>
   </tr>
   <tr>
     <td>10:15</td>
