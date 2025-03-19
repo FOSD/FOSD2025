@@ -61,6 +61,25 @@ The format of an FOSD meeting consists of short presentations from each particip
   </tr>
 </table>
 
+# Keynotes
+
+<b>AI for Optimizing Non-Functional Properties: The Past, The Present, and The Future</b><br>
+<i>Norbert Siegmund (Univ. Leipzig)</i>
+
+This keynote will cover the research progress we have made of the last decade on optimization performance and energy consumption of configurable systems. I will then highlight current challenges we aim to address: construct and ecological validity. With construct validity, we set out to produce not only accurate models, but also correct ones that can be used for explanation and root cause analysis. With ecological validity, we strive for more practical use cases and environments, shifting from a laboratory to a real-world setting. At the end of the talk, I will discuss perspectives, opportunities, and use cases for optimizing non-functional properties that stem from the introduction of generative models into software development. 
+
+Norbert Siegmund holds the chair of Software Systems at Leipzig University. His research focuses on automating software engineering with methods from AI and on building, maintaining and evolving intelligent systems with methods from software engineering.
+
+---
+
+<b>What is a Feature? And why should we care? </b><br>
+<i>Danilo Beuche (pure/PTC)</i>
+
+Whether we like or not, the term "feature" is used in many different contexts to stand for different things. These are similar but not identical. 
+
+The keynote will explore several uses of the term in engineering domains of systems engineering, software engineering and mechanical engineering. The keynote goal is to advocate for a better collaboration between these engineering disciplines illustrating fundamental differences and as well commonalities in these domains.
+
+Danilo has his roots in software engineering, especially embedded systems, expanded it later into more systems engineering work, and more recently,  got a much deeper insight into the world of engineering the mechanical parts of physical products. 
 # Schedule
 The list of speakers for each session will be announced on the preceding day. For the first day (Tuesday, March 25th) we plan to announce the concrete talks approximately one week before.
 
@@ -79,8 +98,9 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>09:15</td>
-    <td><b>Keynote:</b> Norbert Siegmund (Univ. Leipzig)<br>
-    AI for Optimizing Non-Functional Properties: The Past, The Present, and The Future 
+    <td>
+      <b>Keynote:</b> Norbert Siegmund (Univ. Leipzig)<br>
+      <i>AI for Optimizing Non-Functional Properties: The Past, The Present, and The Future</i>
     </td>
   </tr>
   <tr>
@@ -146,7 +166,10 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>09:00</td>
-    <td><b>Keynote:</b> Danilo Beuche (pure/PTC)</td>
+    <td>
+      <b>Keynote:</b> Danilo Beuche (pure/PTC)<br>
+      <i>What is a Feature? And why should we care?</i>
+    </td>
   </tr>
   <tr>
     <td>10:00</td>
