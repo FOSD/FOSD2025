@@ -114,7 +114,7 @@ The list of speakers for each session will be announced on the preceding day. Fo
       <ul>
         <li>Sebastian Böhm (Saarland University)<br><i>When Code Gets Spooky: Unveiling Hidden Errors Caused by Library Upgrades</i></li>
         <li>Sabrina Böhm (University of Ulm)<br><i>Coverage Metrics for T-Wise Feature Interactions</i></li>
-        <li>Roman Boegli (University of Bern)<br><i>Community-Driven Variability</i></li>
+        <li>Roman Bögli (University of Bern)<br><i>Community-Driven Variability</i></li>
       </ul>
     </td>
   </tr>
