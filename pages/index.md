@@ -177,7 +177,14 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>10:30</td>
-    <td>Session 4</td>
+    <td>
+    <b>Session 4:</b>
+      <ul>
+        <li>Lukas Abelt (Saarland University)<br><i>Where Are My Knobs? Unveiling Hidden Configuration Knobs and Investigating their Implications on Performance</i></li>
+        <li>Philip Ochs (Karlsruhe Institute of Technology) <br><i>Optimisation Strategies for Performance of Realisability Analysis in Cyber-Physical Product Lines</i></li>
+        <li>Elias Kuiter (Otto von Guericke University of Magdeburg) <br><i>Quantified Reasoning About Edits to Feature Models</i></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>12:00</td>
@@ -185,7 +192,14 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>13:30</td>
-    <td>Session 5</td>
+    <td>
+    <b>Session 5:</b>
+      <ul>
+        <li>Sandra Greiner (Syddansk University)<br><i>Is the Feature Traceability Problem Already Solved? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing </i></li>
+        <li>Aaron Molt (University of Ulm) <br><i>T-Wise Sampling Operations on Binary Decision Diagrams </i></li>
+        <li>Alexander Stummer (Johannes Kepler Universität Linz) <br><i>A Flexible Approach for Variability Mining</i></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>14:45</td>
@@ -193,7 +207,14 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>15:15</td>
-    <td>Session 6</td>
+    <td>
+    <b>Session 6:</b>
+      <ul>
+        <li>Mathis Weiß (University of Siegen)<br><i>Combining Reconstruction Techniques for Feature Models</i></li>
+        <li>Lukas Güthing (Karlsruhe Institute of Technology) <br><i>Variant Prioritization for Testing Using Variability-Aware Attack-Fault-Trees</i></li>
+        <li>Clemens Dubslaff (Technical University Eindhoven) <br><i>Configuring BDD Compilation Techniques for Feature Models</i></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>19:00</td>
