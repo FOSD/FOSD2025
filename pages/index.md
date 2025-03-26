@@ -234,7 +234,14 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>09:00</td>
-    <td>Session 7</td>
+    <td>
+    <b>Session 7:</b>
+      <ul>
+        <li>Benjamin Moosherr (University of Ulm)<br><i>On the Syntactic Expressiveness of Variability Languages</i></li>
+        <li>Simon Friedel (Saarland University) <br><i>How do Features Interact With Architecture?</i></li>
+        <li>Stefan Sobernig (WU Wien) <br><i>Developing a GLSP-based feature modeling tool: Lessons (to be) learned</i></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>10:15</td>
@@ -242,7 +249,14 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>10:45</td>
-    <td>Session 8</td>
+    <td>
+    <b>Session 8:</b>
+      <ul>
+        <li>Tobias Dick (Saarland University)<br><i>Finding Interesting Subspaces of Software Configuration Spaces with Subgroup Discovery</i></li>
+        <li>Dirk Neumann (Karlsruhe Institute of Technology)<br><i>Consistency Preserving Product Line Engineering</i></li>
+        <li>Sebastian Simon (Leipzig University) <br><i>On the Configuration Complexity in Open-Source Software Systems: A Study of Configuration Evolution and Contributor Dynamics</i></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>12:00</td>
