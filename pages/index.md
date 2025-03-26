@@ -252,7 +252,7 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <td>
     <b>Session 8:</b>
       <ul>
-        <li>Tobias Dick (Saarland University)<br><i>Finding Interesting Subspaces of Software Configuration Spaces with Subgroup Discovery</i></li>
+        <li>Tobias Dick (Saarland University)<br><i>Finding Interesting Subspaces of Software Configuration Spaces</i></li>
         <li>Dirk Neumann (Karlsruhe Institute of Technology)<br><i>Consistency Preserving Product Line Engineering</i></li>
         <li>Sebastian Simon (Leipzig University) <br><i>On the Configuration Complexity in Open-Source Software Systems: A Study of Configuration Evolution and Contributor Dynamics</i></li>
       </ul>
