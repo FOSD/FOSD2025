@@ -195,7 +195,7 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <td>
     <b>Session 5:</b>
       <ul>
-        <li>Sandra Greiner (Syddansk University)<br><i>Is the Feature Traceability Problem Already Solved? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing </i></li>
+        <li>Simon Friedel (Saarland University) <br><i>How do Features Interact With Architecture?</i></li>
         <li>Aaron Molt (University of Ulm) <br><i>T-Wise Sampling Operations on Binary Decision Diagrams </i></li>
         <li>Alexander Stummer (Johannes Kepler Universität Linz) <br><i>A Flexible Approach for Variability Mining</i></li>
       </ul>
@@ -238,7 +238,7 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <b>Session 7:</b>
       <ul>
         <li>Benjamin Moosherr (University of Ulm)<br><i>On the Syntactic Expressiveness of Variability Languages</i></li>
-        <li>Simon Friedel (Saarland University) <br><i>How do Features Interact With Architecture?</i></li>
+        <li>Sandra Greiner (Syddansk University)<br><i>Is the Feature Traceability Problem Already Solved? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing </i></li>
         <li>Stefan Sobernig (WU Wien) <br><i>Developing a GLSP-based feature modeling tool: Lessons (to be) learned</i></li>
       </ul>
     </td>
