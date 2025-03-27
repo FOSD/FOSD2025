@@ -288,7 +288,12 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>09:30</td>
-    <td>Session 9</td>
+    <b>Session 9:</b>
+      <ul>
+        <li>Thomas Thüm (Technical University Braunschweig)<br><i>Incremental d-DNNF Compilation for Feature-Model Evolution </i></li>
+        <li>Kallistos Weis (Saarland University)<br><i>Causality-Guided Sampling of Software Configuration Spaces</i></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>10:15</td>
@@ -296,7 +301,13 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>10:45</td>
-    <td>Session 10</td>
+    <td>
+    <b>Session 10:</b>
+      <ul>
+        <li>Florian Sattler (Saarland University)<br><i>And Suddenly, There Was Variability! An Industry Perspective on Accidental- and Deep-Variability</i></li>
+        <li>Sebastian Krieter (Technical University Braunschweig)<br><i>Identification of Complex Feature Interactions</i></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>12:00</td>
