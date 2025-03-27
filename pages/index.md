@@ -288,6 +288,7 @@ The list of speakers for each session will be announced on the preceding day. Fo
   </tr>
   <tr>
     <td>09:30</td>
+    <td>
     <b>Session 9:</b>
       <ul>
         <li>Thomas Thüm (Technical University Braunschweig)<br><i>Incremental d-DNNF Compilation for Feature-Model Evolution </i></li>
