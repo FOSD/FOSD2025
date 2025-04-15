@@ -114,9 +114,9 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <td>
       <b>Session 1:</b>
       <ul>
-        <li>Sebastian Böhm (Saarland University)<br><i>When Code Gets Spooky: Unveiling Hidden Errors Caused by Library Upgrades</i></li>
+        <li>Sebastian Böhm (Saarland University)<br><i><a href="assets/slides/fosd25-sebastianboehm.pdf" target="_blank">When Code Gets Spooky: Unveiling Hidden Errors Caused by Library Upgrades</a></i></li>
         <li>Sabrina Böhm (University of Ulm)<br><i>Coverage Metrics for T-Wise Feature Interactions</i></li>
-        <li>Roman Bögli (University of Bern)<br><i>Community-Driven Variability</i></li>
+        <li>Roman Bögli (University of Bern)<br><i><a href="assets/slides/fosd25-romanboegli.pdf" target="_blank">Community-Driven Variability</a></i></li>
       </ul>
     </td>
   </tr>
@@ -129,9 +129,9 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <td>
       <b>Session 2:</b>
       <ul>
-        <li>Tim Bächle (Karlsruhe Institute of Technology)<br><i>Investigating the Effects of T-Wise Interaction Sampling for Vulnerability Discovery in Highly-Configurable Software Systems</i></li>
-        <li>Jan Baudisch (University of Ulm)<br><i>Tailoring Hypergraph Partitioning for Efficient d-DNNF Compilation</i></li>
-        <li>Sude Ergün (Saarland University)<br><i>Time-Inhomogeneous Performance Modeling</i></li>
+        <li>Tim Bächle (Karlsruhe Institute of Technology)<br><i><a href="assets/slides/fosd25-timbaechle.pdf" target="_blank">Investigating the Effects of T-Wise Interaction Sampling for Vulnerability Discovery in Highly-Configurable Software Systems</a></i></li>
+        <li>Jan Baudisch (University of Ulm)<br><i><a href="assets/slides/fosd25-janbaudisch.pdf" target="_blank">Tailoring Hypergraph Partitioning for Efficient d-DNNF Compilation</a></i></li>
+        <li>Sude Ergün (Saarland University)<br><i><a href="assets/slides/fosd25-sudeerguen.pdf" target="_blank">Time-Inhomogeneous Performance Modeling</a></i></li>
       </ul>
     </td>
   </tr>
@@ -145,8 +145,8 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <b>Session 3:</b>
       <ul>
         <li>Tim Schmidt (University of Ulm)<br><i>Error Masking in Software Product Lines</i></li>
-        <li>Stefan Jahns (University of Leipzig) <br> <i>Uncertainty Quantification with Conformal Prediction for the Prediction of Non-Functional Properties in Configurable Software Systems</i></li>
-        <li>Sven Apel (Saarland University) <br> <i>Predicting Feature Changes</i></li>
+        <li>Stefan Jahns (University of Leipzig)<br><i><a href="assets/slides/fosd25-stefanjahns.pdf" target="_blank">Conformal Prediction for Uncertainty Quantification in Performance Modelling</a></i></li>
+        <li>Sven Apel (Saarland University)<br><i>Predicting Feature Changes</i></li>
       </ul>
     </td>
   </tr>
@@ -182,9 +182,9 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <td>
     <b>Session 4:</b>
       <ul>
-        <li>Lukas Abelt (Saarland University)<br><i>Where Are My Knobs? Unveiling Hidden Configuration Knobs and Investigating their Implications on Performance</i></li>
-        <li>Philip Ochs (Karlsruhe Institute of Technology) <br><i>Optimisation Strategies for Performance of Realisability Analysis in Cyber-Physical Product Lines</i></li>
-        <li>Elias Kuiter (Otto von Guericke University of Magdeburg) <br><i>Quantified Reasoning About Edits to Feature Models</i></li>
+        <li>Lukas Abelt (Saarland University)<br><i><a href="assets/slides/fosd25-lukasabelt.pdf" target="_blank">Where Are My Knobs? Unveiling Hidden Configuration Knobs and Investigating their Implications on Performance</a></i></li>
+        <li>Philip Ochs (Karlsruhe Institute of Technology)<br><i><a href="assets/slides/fosd25-philipochs.pdf" target="_blank">Communicating Changes in Multi-Disciplinary Engineering</a></i></li>
+        <li>Elias Kuiter (Otto von Guericke University of Magdeburg)<br><i><a href="assets/slides/fosd25-eliaskuiter.pdf" target="_blank">Quantified Reasoning About Edits to Feature Models</a></i></li>
       </ul>
     </td>
   </tr>
@@ -197,9 +197,9 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <td>
     <b>Session 5:</b>
       <ul>
-        <li>Simon Friedel (Saarland University) <br><i>How do Features Interact With Architecture?</i></li>
-        <li>Aaron Molt (University of Ulm) <br><i>T-Wise Sampling Operations on Binary Decision Diagrams </i></li>
-        <li>Alexander Stummer (Johannes Kepler Universität Linz) <br><i>A Flexible Approach for Variability Mining</i></li>
+        <li>Simon Friedel (Saarland University)<br><i><a href="assets/slides/fosd25-simonfriedel.pdf" target="_blank">How do Features Interact With Architecture?</a></i></li>
+        <li>Aaron Molt (University of Ulm)<br><i><a href="assets/slides/fosd25-aaronmolt.pdf" target="_blank">T-Wise Sampling Operations on Binary Decision Diagrams</a></i></li>
+        <li>Alexander Stummer (Johannes Kepler Universität Linz)<br><i><a href="assets/slides/fosd25-alexanderstummer.pdf" target="_blank">Varflix: A Flexible Approach for Variability Mining</a></i></li>
       </ul>
     </td>
   </tr>
@@ -212,9 +212,9 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <td>
     <b>Session 6:</b>
       <ul>
-        <li>Mathis Weiß (University of Siegen)<br><i>Combining Reconstruction Techniques for Feature Models</i></li>
-        <li>Lukas Güthing (Karlsruhe Institute of Technology) <br><i>Variant Prioritization for Testing Using Variability-Aware Attack-Fault-Trees</i></li>
-        <li>Clemens Dubslaff (Technical University Eindhoven) <br><i>Configuring BDD Compilation Techniques for Feature Models</i></li>
+        <li>Mathis Weiß (University of Siegen)<br><i><a href="assets/slides/fosd25-mathisweiß.pdf" target="_blank">Combining Reconstruction Techniques for Feature Models</a></i></li>
+        <li>Lukas Güthing (Karlsruhe Institute of Technology)<br><i><a href="assets/slides/fosd25-lukasguething.pdf" target="_blank">Variant Prioritization for Testing Using Solution-Space Knowledge</a></i></li>
+        <li>Clemens Dubslaff (Technical University Eindhoven)<br><i>Configuring BDD Compilation Techniques for Feature Models</i></li>
       </ul>
     </td>
   </tr>
@@ -239,9 +239,9 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <td>
     <b>Session 7:</b>
       <ul>
-        <li>Benjamin Moosherr (University of Ulm)<br><i>On the Syntactic Expressiveness of Variability Languages</i></li>
+        <li>Benjamin Moosherr (University of Ulm)<br><i><a href="assets/slides/fosd25-benjaminmoosherr.pdf" target="_blank">On the Syntactic Expressiveness of Variability Languages</a></i></li>
         <li>Sandra Greiner (Syddansk University)<br><i>Is the Feature Traceability Problem Already Solved? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing </i></li>
-        <li>Stefan Sobernig (WU Wien) <br><i>Developing a GLSP-based feature modeling tool: Lessons (to be) learned</i></li>
+        <li>Stefan Sobernig (WU Wien)<br><i>Developing a GLSP-based feature modeling tool: Lessons (to be) learned</i></li>
       </ul>
     </td>
   </tr>
@@ -254,9 +254,9 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <td>
     <b>Session 8:</b>
       <ul>
-        <li>Tobias Dick (Saarland University)<br><i>Finding Interesting Subspaces of Software Configuration Spaces</i></li>
-        <li>Dirk Neumann (Karlsruhe Institute of Technology)<br><i>Consistency Preserving Product Line Engineering</i></li>
-        <li>Sebastian Simon (Leipzig University) <br><i>On the Configuration Complexity in Open-Source Software Systems: A Study of Configuration Evolution and Contributor Dynamics</i></li>
+        <li>Tobias Dick (Saarland University)<br><i><a href="assets/slides/fosd25-tobiasdick.pdf" target="_blank">Finding Interesting Subspaces of Software Configuration Spaces</a></i></li>
+        <li>Dirk Neumann (Karlsruhe Institute of Technology)<br><i><a href="assets/slides/fosd25-dirkneumann.pdf" target="_blank">Using Consistency Preservation for Multi-Domain Variability Modeling</a></i></li>
+        <li>Sebastian Simon (Leipzig University)<br><i>On the Configuration Complexity in Open-Source Software Systems: A Study of Configuration Evolution and Contributor Dynamics</i></li>
       </ul>
     </td>
   </tr>
@@ -293,8 +293,8 @@ The list of speakers for each session will be announced on the preceding day. Fo
     <td>
     <b>Session 9:</b>
       <ul>
-        <li>Thomas Thüm (Technical University Braunschweig)<br><i>Incremental d-DNNF Compilation for Feature-Model Evolution </i></li>
-        <li>Kallistos Weis (Saarland University)<br><i>Causality-Guided Sampling of Software Configuration Spaces</i></li>
+        <li>Thomas Thüm (Technical University Braunschweig)<br><i><a href="assets/slides/fosd25-thomasthuem.pdf" target="_blank">Incorporating Feature-Model Edits with Incremental d-DNNF Compilation</a></i></li>
+        <li>Kallistos Weis (Saarland University)<br><i><a href="assets/slides/fosd25-kallistosweis.pdf" target="_blank">Causality-Guided Sampling of Software Configuration Spaces</a></i></li>
       </ul>
     </td>
   </tr>
