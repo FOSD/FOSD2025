@@ -34,7 +34,7 @@
 </style>
 
 <p class="next-meeting-note">
-  For the 2026 Meeting on Feature-Oriented Software Development (FOSD Meeting), refer to <a href="https://fosd.github.io/FOSD2026">this page</a>.
+  For the FOSD Meeting 2026, refer to <a href="https://fosd.github.io/FOSD2026">this page</a>.
 </p>
 
 # About
